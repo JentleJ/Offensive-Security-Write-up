@@ -99,7 +99,7 @@ MS11-046.exe
 
 whoami
 ```
-#### Result: nt authority\system (Highest Permission)
+#### Result: nt authority\system (Achieved System-Level Privilege)
 
 ---
 
